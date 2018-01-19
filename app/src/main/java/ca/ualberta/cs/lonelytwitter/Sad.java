@@ -6,19 +6,19 @@ import java.util.Date;
  * Created by cf on 2018-01-18.
  */
 
-public class Bored extends Mood {
+public class Sad extends Mood {
     @Override
     public String toString(){
-        return "";
-    }
+        return ":(";
+    }//end toString()
 
-    public Bored(Date date){
+    public Sad(Date date){
         super(date);
-    }
+    }//end constructor
 
-    public Bored(){
+    public Sad(){
         super();
-    }
+    }//end constructor
 
 
 

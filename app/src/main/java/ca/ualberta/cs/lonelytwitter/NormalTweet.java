@@ -16,7 +16,6 @@ public class NormalTweet extends Tweet {
         super(message, date);
     }//end constructor
 
-
     @Override
     public Boolean isImportant(){
         return Boolean.FALSE;
