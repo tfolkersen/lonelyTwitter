@@ -3,7 +3,13 @@ package ca.ualberta.cs.lonelytwitter;
 import java.util.Date;
 
 /**
- * Created by cf on 2018-01-18.
+ * Represents something that can be tweeted
+ *
+ * @author folkerse
+ * @version 1.0
+ * @see Tweet
+ * @see ImportantTweet
+ * @see NormalTweet
  */
 
 public interface Tweetable {

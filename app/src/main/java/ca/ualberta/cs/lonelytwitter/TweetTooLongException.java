@@ -1,7 +1,11 @@
 package ca.ualberta.cs.lonelytwitter;
 
 /**
- * Created by cf on 2018-01-18.
+ * Exception for when the tweet is too long
+ *
+ *
+ * @author folkerse
+ * @version 1.0
  */
 
 
