@@ -7,12 +7,12 @@
     tools:context="ca.ualberta.cs.lonelytwitter.EditTweetActivity">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/singleTweetView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="86dp"
-        android:layout_marginTop="108dp"
-        android:text="TextView" />
+        android:layout_marginStart="117dp"
+        android:layout_marginTop="102dp"
+        android:text="singleTweetView" />
 </RelativeLayout>
